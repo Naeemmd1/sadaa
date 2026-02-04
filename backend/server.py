@@ -118,7 +118,7 @@ class SubscriptionCreate(BaseModel):
 
 SAMPLE_INSTRUMENTALS = [
     # Featured Instrumentals
-    {"title": "Mawla Ya Salli - Peaceful", "mood": "Spiritual", "duration": 245, "duration_formatted": "4:05", "is_premium": False, "is_featured": True, "thumbnail_color": "#4A3463", "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", "file_size": 4500000},
+    {"title": "Mawla Ya Salli - Peaceful", "mood": "Spiritual", "duration": 245, "duration_formatted": "4:05", "is_premium": False, "is_featured": True, "thumbnail_color": "#4A3463", "thumbnail": "https://pod-engine-public.nyc3.cdn.digitaloceanspaces.com/images/jHga4s2CmiyaibFlOfJVL25LfdfjqmZpbJ6ehRzVVCQ.png", "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", "file_size": 4500000},
     {"title": "Nasheed of Dawn", "mood": "Calm", "duration": 312, "duration_formatted": "5:12", "is_premium": True, "is_featured": True, "thumbnail_color": "#2D5A4A", "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", "file_size": 5200000, "preview_start": 70, "preview_end": 100},
     
     # Free Instrumentals
